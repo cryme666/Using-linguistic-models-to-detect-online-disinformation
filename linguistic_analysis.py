@@ -1,6 +1,3 @@
-from bs4 import BeautifulSoup
-from gensim.test.utils import lee_corpus_list
-from gensim.models import Word2Vec
 import numpy as np
 import math
 from numpy import dot
