@@ -1,0 +1,2 @@
+TF-IDF analysis is a key method in linguistic text analysis that assigns a numerical value to each word in a text, reflecting its importance in the relevant context. Using the TF-IDF method allows you to identify keywords and themes in texts, as well as determine their similarity to each other.
+link to csv files of datasets -> https://drive.google.com/drive/folders/1mEcphf0n1EG8nhO-qw57MvSEZwGDaphE?usp=sharing
